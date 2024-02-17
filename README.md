@@ -77,7 +77,7 @@ $ npm start (to start the server) or with nodemon: nodemon server
 <img src="./images/image03.jpg" alt="project screenshot03" />
 <img src="./images/image04.jpg" alt="project screenshot04" />
 <img src="./images/image05.jpg" alt="project screenshot05" />
-<img src="./images/image06.jpg" alt="project screenshot06" />
+
 
 <br>
 
