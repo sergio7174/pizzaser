@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 MERN Pizza Ser  </h1>
+<h1 align ="center" > 🍕 👨🏻‍🍳 MERN Pizza Ser  </h1>
 <h5  align ="center"> 
 Fullstack Pizza - Food application made with MongoDB, Express, React(JSX) & Nodejs (MERN) </h5>
 <br>
